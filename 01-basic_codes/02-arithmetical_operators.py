@@ -1,4 +1,3 @@
-# -*- coding: cp1254 -*-
 # Author: harundemir918
 # Basic arithmetic operators
 
